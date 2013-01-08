@@ -1,0 +1,1 @@
+Animal Farm is an arcade 2D game made in SDL / C++11. Beta.
